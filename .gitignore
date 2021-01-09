@@ -13,6 +13,7 @@ libraries/vendor
 /cache
 /installation/cache
 /installation/sessions
+/configuration.php
 /libraries/autoload_psr4.php
 /tmp
 /.htaccess
